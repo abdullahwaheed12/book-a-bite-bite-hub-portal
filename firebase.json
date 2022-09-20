@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "site": "book-a-bite-resto-hub-portal",
+    "public": "build/web"
+  }
+}

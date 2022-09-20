@@ -1,0 +1,8 @@
+for load images on web
+flutter run -d chrome --web-renderer html
+flutter build web --web-renderer html
+
+firebase deploy --only hosting:bitehub
+
+
+firebase deploy --only hosting:book-a-bite-resto-hub-portal for hosting the site
